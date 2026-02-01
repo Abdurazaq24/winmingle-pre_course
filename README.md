@@ -1,2 +1,1 @@
-# winmingle-pre_course
-Setting up git
+My first readme
